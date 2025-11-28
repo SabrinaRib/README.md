@@ -7,7 +7,7 @@ Ainda não trabalho profissionalmente na área, mas estou construindo projetos p
 
 # 🛠 Principais Competências:
 
-- **Linguagens:** Python, PHP, C++
+- **Linguagens:** Java, Python, PHP, C++
 
 - **Banco de Dados:** MySQL, Modelagem de Dados
 
